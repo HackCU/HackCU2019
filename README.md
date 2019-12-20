@@ -5,7 +5,7 @@
 </p>
 <br>
 
-HackCU landing page
+HackCU V landing page
 
 # Run project
 
