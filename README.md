@@ -5,7 +5,7 @@
 </p>
 <br>
 
-### Historical HackCU V Landing Page
+### Historical HackCU V (2019) Landing Page
 
 # Run project
 
